@@ -31,7 +31,9 @@ We performed data cleaning, tuning, and binning by crime type to prepare the dat
   - Logistic Regression: Achieved 19% accuracy with all features included.
   - Random Forest: Achieved 35% accuracy which was closer.  
   - Focused Feature Analysis: By focusing on specific features like area, gender, and age, we achieved 89% accuracy. We also explored interesting outliers using these methods, even with lower accuracy scores.
-  - Model Comparison: Random Forest provided the highest or equal scores compared to other models.
+  - Model Comparison: Random Forest provided the highest or equal scores compared to other models. <<br>
+![models](https://github.com/haritha3679/We-R-No-Angels/blob/main/static/img/ML_Model_comp.png?raw=true)
+
 
 <strong>Files and Work Process</strong><br>
 <strong>Work process:</strong> Filename<br>
@@ -54,4 +56,4 @@ Files are located in https://github.com/haritha3679/We-R-No-Angels<br>
 ![map](https://github.com/haritha3679/We-R-No-Angels/blob/main/static/img/map.png?raw=true)
 
 
-![models](https://github.com/haritha3679/We-R-No-Angels/blob/main/static/img/ML_Model_comp.png?raw=true)
+
