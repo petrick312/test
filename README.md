@@ -26,14 +26,14 @@ The goal of this analysis is to identify patterns, trends, and factors contribut
   - Heroku: We chose Heroku for app deployment, but it required a purchase.
   - Tableau: Tableau occasionally deleted our work, causing setbacks.
 
-<strong>Machine Learning Approach</strong>
+<strong>Machine Learning Approach</strong><br>
 We performed data cleaning, tuning, and binning by crime type to prepare the data. The results of our machine learning models were as follows:
   - Logistic Regression: Achieved 19% accuracy with all features included.
   - Random Forest: Achieved 35% accuracy which was closer.  
   - Focused Feature Analysis: By focusing on specific features like area, gender, and age, we achieved 89% accuracy. We also explored interesting outliers using these methods, even with lower accuracy scores.
   - Model Comparison: Random Forest provided the highest or equal scores compared to other models.
 
-<strong>Files and Work Process</strong>
+<strong>Files and Work Process</strong><br>
 <strong>Work process:</strong> Filename<br>
 <strong>Machine learning:</strong> Crime_analysisRF_tune.ipynb<br>
 <strong>Spark, Dash:</strong>  Crime_data_imp_dash.ipynb<br>
@@ -47,8 +47,11 @@ Files are located in https://github.com/haritha3679/We-R-No-Angels<br>
 
 <strong>Tableau</strong><br>
   - https://public.tableau.com/app/profile/carmen.wiggins/viz/DashboardProject4_17193531816340/Dashboard1<br>
-![tableau](https://github.com/petrick312/deep-learning-challenge/blob/main/img/accuracy.png?raw=true)
+![tableau](https://github.com/haritha3679/We-R-No-Angels/blob/main/static/img/tableu.png?raw=true)
 
 <br><strong>Crime Map</strong><br>
   - https://github.com/petrick312/la_crime_map<br>
+![map](https://github.com/haritha3679/We-R-No-Angels/blob/main/static/img/map.png?raw=true)
 
+
+![models](https://github.com/haritha3679/We-R-No-Angels/blob/main/static/img/ML_Model_comp.png?raw=true)
